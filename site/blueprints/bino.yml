@@ -1,0 +1,80 @@
+title: bino
+
+pages:
+  template: bino
+  num: zero
+
+files: true
+
+options: 
+  template: false  
+  status: false  
+  
+fields:
+  title:
+    label: Title
+    type: title
+	
+	
+    
+  intro:
+    label: Top Heading
+    type: textarea
+    
+  text:
+    label: Service Text
+    type: textarea
+	
+  contactoptions:
+    label: Service Options
+    type: structure
+    style: table
+    fields:
+      icon:
+        label: Icon
+        type: image
+      text:
+        label: Text
+        type: text
+      url:
+        label: URL
+        type: text
+      linktext:
+        label: Link Text
+        type: text
+  text2:
+      label: our team text
+      type: textarea
+	  
+	teamoption:
+    label: Team Options
+    type: structure
+    style: table
+    fields:
+      title:
+        label: Title
+        type: text
+      icon:
+        label: Icon
+        type: image
+      text:
+        label: Text
+        type: text
+      url:
+        label: URL
+        type: text
+      linktext:
+        label: director
+        type: text
+	 
+		
+	text3:
+      label: Get in touch
+      type: textarea
+	  
+	text4:
+      label: Social media
+      type: textarea
+	  
+	
+

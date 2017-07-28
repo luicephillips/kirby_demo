@@ -1,0 +1,112 @@
+Title: bino
+
+----
+
+Intro: 
+
+<h1>Hi there! We are the new kids on the block and we build awesome websites and mobile apps.</h1>
+(link: # text: Work with us)
+
+----
+
+Text: 
+
+<h2 class="cf">SERVICES WE PROVIDE</h2>
+<p>We are working with both individuals and businesses from all over the globe to create awesome websites and applications.</p>
+
+----
+
+Contactoptions: 
+
+- 
+  title: ""
+  icon: flag_icon.png
+  text: >
+    Lorem ipsum dolor sit amet, consectetuer
+    adipiscing elit, sed diam nonummy nibh.
+  url: '#'
+  linktext: BRANDING
+- 
+  icon: crayon_icon.png
+  text: >
+    Sed ut perspiciatis unde omnis iste
+    natus error sit voluptatem
+  url: '#'
+  linktext: DESIGN
+- 
+  icon: gears_icon.png
+  text: >
+    At vero eos et accusamus et iusto odio
+    dignissimos qui blanditiis praesentium.
+  url: '#'
+  linktext: DEVELOPMENT
+- 
+  icon: rocket_icon.png
+  text: >
+    Et harum quidem rerum est et expedita
+    distinctio. Nam libero tempore.
+  url: '#'
+  linktext: ROCKET SCIENCE
+
+----
+
+Text2: 
+
+<h2 class="cf">MEET OUR BEAUTIFUL TEAM</h2>
+<p>We are a small team of designers and developers, who help brands with big ideas.</p>
+
+----
+
+Teamoption: 
+
+- 
+  title: ANNE HATHAWAY
+  icon: profile.png
+  text: >
+    Duis aute irure dolor in in voluptate
+    velit esse cillum dolore fugiat nulla
+    pariatur. Excepteur sint occaecat non
+    diam proident.
+  url: '#'
+  linktext: Creative Director
+- 
+  title: KATE UPTON
+  icon: profile.png
+  text: >
+    Duis aute irure dolor in in voluptate
+    velit esse cillum dolore fugiat nulla
+    pariatur. Excepteur sint occaecat non
+    diam proident.
+  url: '#'
+  linktext: Creative Director
+- 
+  title: OLIVIA WILDE
+  icon: profile.png
+  text: >
+    Nemo enim ipsam voluptas sit aspernatur
+    aut odit aut fugit, sed quia
+    consequuntur magni dolores eos qui
+    ratione voluptatem nesciunt.
+  url: '#'
+  linktext: Lead Designer
+- 
+  title: ASHLEY GREENE
+  icon: profile.png
+  text: >
+    Sed ut perspiciatis unde omnis iste
+    natus error sit voluptatem accusantium
+    doloremque laudantium, totam rem
+    aperiam.
+  url: '#'
+  linktext: SEO / Developer
+
+----
+
+Text3: 
+
+<h2 class="cf">GET IN TOUCH</h2>
+ <p>16 Pennsylvania Ave NW, North, DD 20500, Canada. Tel: (111) 456-1111</p>
+
+----
+
+Text4: <a href="#" title="Facebook">Facebook</a><a href="#" title="Twitter">Twitter</a> <a href="#" title="Google+">Google+</a><a href="#" title="LinkedIn">LinkedIn</a> <a href="#" title="Behance">Behance</a><a href="#" title="Dribbble">Dribbble</a><a href="#" title="GitHub">GitHub</a>
